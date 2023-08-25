@@ -1,6 +1,6 @@
-package com.mycode.designpatternsbehavioralmediator;
+package com.mycode.designpatternsbehavioralmediator.entities;
 
-import com.mycode.designpatternsbehavioralmediator.mediator.Mediator;
+import com.mycode.designpatternsbehavioralmediator.entities.mediator.Mediator;
 import lombok.Data;
 
 @Data

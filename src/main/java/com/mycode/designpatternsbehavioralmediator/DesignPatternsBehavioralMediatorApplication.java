@@ -1,7 +1,8 @@
 package com.mycode.designpatternsbehavioralmediator;
 
-import com.mycode.designpatternsbehavioralmediator.mediator.AirPortMediator;
-import com.mycode.designpatternsbehavioralmediator.mediator.Mediator;
+import com.mycode.designpatternsbehavioralmediator.entities.Plane;
+import com.mycode.designpatternsbehavioralmediator.entities.mediator.AirPortMediator;
+import com.mycode.designpatternsbehavioralmediator.entities.mediator.Mediator;
 
 
 public class DesignPatternsBehavioralMediatorApplication {

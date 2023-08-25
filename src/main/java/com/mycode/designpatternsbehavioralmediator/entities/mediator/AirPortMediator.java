@@ -1,6 +1,6 @@
-package com.mycode.designpatternsbehavioralmediator.mediator;
+package com.mycode.designpatternsbehavioralmediator.entities.mediator;
 
-import com.mycode.designpatternsbehavioralmediator.Plane;
+import com.mycode.designpatternsbehavioralmediator.entities.Plane;
 
 import java.util.ArrayList;
 import java.util.List;
